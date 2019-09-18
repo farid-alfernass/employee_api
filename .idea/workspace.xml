@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c1f88d5-4428-4f19-80d3-60df410864f8" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="init.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infrastructure/db/init.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+              <folding>
+                <element signature="e#12#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infrastructure/cache/redis/redis.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="mysql.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infrastructure/db/mysql/mysql.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="e#15#132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/infrastructure/mysql.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#14#494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="employee_usecase.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/services/employee/usecase/employee_usecase.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="177" column="11" lean-forward="true" selection-start-line="177" selection-start-column="11" selection-end-line="177" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="employee.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/employee/presenter/employee.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#19#129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql_employee.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/employee/repository/mysql_employee.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis_employee.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/employee/repository/redis_employee.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-316">
+              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding>
+                <element signature="e#20#267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>faridtriwicaksono</find>
+      <find>Gambar</find>
+      <find>result</find>
+      <find>GetByCategory</find>
+      <find>DefaultPerPage</find>
+      <find>GetByType</find>
+      <find>kodesumberdata</find>
+      <find>GetBilling</find>
+      <find>GetBillingByNim</find>
+      <find>rendyspratama/insp</find>
+      <find>User</find>
+      <find>users</find>
+      <find>inspiras</find>
+      <find>name</find>
+      <find>lib</find>
+      <find>inspirasi</find>
+      <find>employee</find>
+      <find>user</find>
+      <find>call</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>faridtriwicaksono</replace>
+      <replace>faridtriwicaksono/employee_api</replace>
+      <replace>Employee</replace>
+      <replace>employees</replace>
+      <replace>employee</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\go-work\src\github.com\faridtriwicaksono\new_srs_api</dir>
+      <dir>$PROJECT_DIR$/services/employee/presenter</dir>
+      <dir>$PROJECT_DIR$/services/employee/usecase</dir>
+      <dir>$PROJECT_DIR$/services/employee</dir>
+      <dir>$PROJECT_DIR$/services/employee/repository</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/new-api-inspirasi" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/services/post/presenter/post.go" />
+        <option value="$PROJECT_DIR$/services/post/usecase/post_usecase.go" />
+        <option value="$PROJECT_DIR$/services/billing/repository/mysql_post.go" />
+        <option value="$PROJECT_DIR$/services/billing/repository/redis_post.go" />
+        <option value="$PROJECT_DIR$/services/billing/usecase/post_usecase.go" />
+        <option value="$PROJECT_DIR$/services/billing/presenter/post.go" />
+        <option value="$PROJECT_DIR$/models/billingDetail.go" />
+        <option value="$PROJECT_DIR$/infrastructure/redis.go" />
+        <option value="$PROJECT_DIR$/models/billing.go" />
+        <option value="$PROJECT_DIR$/services/billing/const.go" />
+        <option value="$PROJECT_DIR$/services/billing/repository/redis_billing.go" />
+        <option value="$PROJECT_DIR$/services/billing/presenter/billing.go" />
+        <option value="$PROJECT_DIR$/services/billing/usecase/billing_usecase.go" />
+        <option value="$PROJECT_DIR$/services/billing/repository/mysql_billing.go" />
+        <option value="$PROJECT_DIR$/services/billing/repository.go" />
+        <option value="$PROJECT_DIR$/services/billing/usecase.go" />
+        <option value="$PROJECT_DIR$/services/wifi.id/usecase.go" />
+        <option value="$PROJECT_DIR$/services/wifi.id/presenter/wifi.go" />
+        <option value="$PROJECT_DIR$/services/wifi.id/repository.go" />
+        <option value="$PROJECT_DIR$/services/wifi/presenter/wifi.go" />
+        <option value="$PROJECT_DIR$/services/wifi/usecase/wifi_usecase.go" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/services/employee/repository.go" />
+        <option value="$PROJECT_DIR$/services/employee/const.go" />
+        <option value="$PROJECT_DIR$/services/employee/presenter/employee.go" />
+        <option value="$PROJECT_DIR$/models/employee.go" />
+        <option value="$PROJECT_DIR$/services/employee/repository/mysql_employee.go" />
+        <option value="$PROJECT_DIR$/services/employee/repository/redis_employee.go" />
+        <option value="$PROJECT_DIR$/server.go" />
+        <option value="$PROJECT_DIR$/infrastructure/db/init.go" />
+        <option value="$PROJECT_DIR$/infrastructure/mysql.go" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/services/employee/usecase/employee_usecase.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+              <item name="presenter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee_api" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+              <item name="usecase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/faridtriwicaksono/employee_api">
+    <configuration name="go build github.com/faridtriwicaksono/employee_api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="employee_api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="github.com/faridtriwicaksono/employee_api" />
+      <directory value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="go build github.com/faridtriwicaksono/new_srs_api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="new_srs_api" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="github.com/faridtriwicaksono/new_srs_api" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build github.com/faridtriwicaksono/new_srs_api" />
+      <item itemvalue="Go Build.go build github.com/faridtriwicaksono/employee_api" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/faridtriwicaksono/employee_api" />
+        <item itemvalue="Go Build.go build github.com/faridtriwicaksono/new_srs_api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13819444" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32977304" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32843792" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.27102804" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3297414" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39978448" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/infrastructure/db/mysql/mysql.go" />
+    <entry file="file://$PROJECT_DIR$/lib/neo4j.go" />
+    <entry file="file://$PROJECT_DIR$/models/billingDetail.go" />
+    <entry file="file://$PROJECT_DIR$/models/billing.go" />
+    <entry file="file://$PROJECT_DIR$/infrastructure/mysql.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/usecase.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/const.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/repository.go" />
+    <entry file="file://$PROJECT_DIR$/server.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/presenter/billing.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/repository/mysql_billing.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/repository/redis_billing.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/usecase/billing_usecase.go" />
+    <entry file="file://$PROJECT_DIR$/services/friendship/repository/redis_friendship.go" />
+    <entry file="file://$PROJECT_DIR$/services/post/usecase/post_usecase.go" />
+    <entry file="file://$PROJECT_DIR$/services/post/presenter/post.go" />
+    <entry file="file://$PROJECT_DIR$/lib/neo4j.go" />
+    <entry file="file://$PROJECT_DIR$/models/billingDetail.go" />
+    <entry file="file://$PROJECT_DIR$/services/comment.go" />
+    <entry file="file://$PROJECT_DIR$/services/file.go" />
+    <entry file="file://$PROJECT_DIR$/infrastructure/neo4j.go" />
+    <entry file="file://$PROJECT_DIR$/infrastructure/redis.go" />
+    <entry file="file://$PROJECT_DIR$/models/billing.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/const.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/repository/redis_billing.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/repository/mysql_billing.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/usecase.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/repository.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/presenter/billing.go" />
+    <entry file="file://$PROJECT_DIR$/services/billing/usecase/billing_usecase.go" />
+    <entry file="file://$PROJECT_DIR$/services/wifi/usecase.go" />
+    <entry file="file://$PROJECT_DIR$/services/wifi/repository.go" />
+    <entry file="file://$PROJECT_DIR$/services/wifi/presenter/wifi.go" />
+    <entry file="file://$PROJECT_DIR$/services/wifi/usecase/wifi_usecase.go" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/infrastructure/cache/init.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/employee/const.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/employee.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#16#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/converter/string.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/employee/repository.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/employee/usecase.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/employee/presenter/employee.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#19#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/employee/repository/redis_employee.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#20#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/cache/redis/redis.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/db/mysql/mysql.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#15#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/db/init.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="e#12#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/mysql.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#14#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/employee/repository/mysql_employee.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/employee/usecase/employee_usecase.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="177" column="11" lean-forward="true" selection-start-line="177" selection-start-column="11" selection-end-line="177" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
