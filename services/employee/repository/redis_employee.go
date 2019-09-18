@@ -55,7 +55,7 @@ func (m redisEmployeeRepository) SetNewEmployee(perPage int, offset int, val []m
 		return errors.Wrap(err, "failed to marshal JSON")
 	}
 
-	redis.SetRedisValue(m.redisAccess, fmt.Sprintf(redisNewEmployee, perPage, offset), resJSON, 300)
+	redis.SetRedisValue(m.redisAccess, fmt.Sprintf(redisNewEmployee, perPage, offset), resJSON, 100)
 	return nil
 }
 
@@ -87,7 +87,7 @@ func (m redisEmployeeRepository) SetBySearchKeywords(keywords string, perPage in
 		return errors.Wrap(err, "failed to marshal JSON")
 	}
 
-	redis.SetRedisValue(m.redisAccess, fmt.Sprintf(redisEmployeeBySearchKeywords, keywords, perPage, offset), resJSON, 300)
+	redis.SetRedisValue(m.redisAccess, fmt.Sprintf(redisEmployeeBySearchKeywords, keywords, perPage, offset), resJSON, 100)
 	return nil
 }
 
@@ -119,6 +119,6 @@ func (m redisEmployeeRepository) SetByID(id string, utype string, val models.Emp
 		return errors.Wrap(err, "failed to marshal JSON")
 	}
 
-	redis.SetRedisValue(m.redisAccess, fmt.Sprintf(redisEmployeeByID, id, utype), resJSON, 300)
+	redis.SetRedisValue(m.redisAccess, fmt.Sprintf(redisEmployeeByID, id, utype), resJSON, 100)
 	return nil
 }
